@@ -1,4 +1,4 @@
-package com.spring.demo.rest.webservices.restfulwebservices.basic.auth;
+package com.spring.demo.rest.basic.auth;
 
 public class AuthenticationBean {
 	private String message;

@@ -1,4 +1,4 @@
-package com.spring.demo.rest.webservices.restfulwebservices.basic.auth;
+package com.spring.demo.rest.basic.auth;
 
 import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.http.HttpMethod;
